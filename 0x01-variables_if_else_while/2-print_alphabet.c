@@ -2,6 +2,8 @@
 
 /**
 * main - print the alphabet using putchar()
+* putchar - function that takes a single
+* argument and print it out to the console
 * Return: Always 0 (Success)
 *
 */
