@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - prints out alphabet in upper and lower case
  * putchar - display a char to the standard output
  *
