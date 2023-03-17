@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints digits from 0 to 9 separated by 
+ * main - prints digits from 0 to 9 separated by
  * comma using putchar method and only int vars.
  * putchar - display chars to standard outout
  * Return: Always 0 (Success)
