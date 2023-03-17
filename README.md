@@ -1,5 +1,5 @@
 # alx-low_level_programming  
-This repo contains all the C programming projects done in the with ALX Africa Software Engineering  during the last two weeks of the probation phase.  
+This repo contains all the C programming projects done in the ALX Africa Software Engineering program during the last two weeks of the probation phase.  
 
 ## Projects
 - [0x00](./0x00-hello_world) : Hello, World.
