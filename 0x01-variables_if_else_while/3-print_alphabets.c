@@ -3,7 +3,7 @@
 /**
  * main - prints out alphabet in upper and lower case
  * putchar - display a char to the standard output
- *
+ * Retur: Always 0 (success)
 */
 
 int main(void)
