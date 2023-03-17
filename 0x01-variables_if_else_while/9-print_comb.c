@@ -2,11 +2,10 @@
 
 /**
  * main - prints digits from 0 to 9 separated by 
- * comma using putchar method
- * and only int variables.
- * puchat - display chars to standard outout
+ * comma using putchar method and only int vars.
+ * putchar - display chars to standard outout
  * Return: Always 0 (Success)
- */
+*/
 int main(void)
 {
 	int num = 0;
