@@ -6,7 +6,7 @@
  * @m: The second number.
  * Return: The sum of n and m.
  */
-int add(int m, int m)
+int add(int n, int m)
 {
 	return (n + m);
 }
