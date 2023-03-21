@@ -2,11 +2,11 @@
 
 /**
  *
- * main - prints the alphabet in lowercase
+ * print_alphabet - prints the alphabet in lowercase
  * Return: Always 0 (Success)
  *
  */
-int main(void)
+void print_alphabet(void)
 {
 	char c = 'a';
 	while (c <= 'z')
@@ -15,5 +15,5 @@ int main(void)
 		++c;
 	}
 
-	return (0);
+	_putchar('\n');
 }
