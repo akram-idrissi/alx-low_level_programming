@@ -2,7 +2,7 @@
 
 /**
  * main - updates pointers value
- * @n: the pointer to be updated
+ * @*n: the pointer to be updated
  *
  */
 
