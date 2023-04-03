@@ -4,17 +4,18 @@
  * _strchr - locates a character in the given string 
  * @s: the given string
  * @c: occurence of the character
- * Return: Always 0 (sucess)
+ * Return: a pointer
  */
 char *_strchr(char *s, char c)
 {
 	int i = 0;
 
-	for (; s[i] >= '\0'; i++)
+	while (1)
 	{
-		if (s[i] == c)
-			return (&s[i] - 1);
+		i = *s++;
+		if (i == c)
+			return (s - 1);
+		if (i == 0)
+			return (NULL);
 	}
-	return (0);
 }
-
